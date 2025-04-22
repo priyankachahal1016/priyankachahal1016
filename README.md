@@ -60,6 +60,7 @@ Hi, I am *Priyanka, a dedicated data enthusiast with a Master's in Physics and a
 ## 🌟 Featured Projects
 - *[MLP Project 1](https://github.com/priyankachahal1016/Electricity-demand-estimation-for-leading-distribution):* predited the electricity demand estimation for next 2 year.
 - *[MLP Project 2](https://github.com/priyankachahal1016/Predicting-the-success-of-bank-telemarkiting):* predicted the Bank telemarketing sucess for data driven results.
+- *[MLP Project 3](https://github.com/priyankachahal1016/MLP-project-3):* Marketing Insights for E-Commerce Company.
 - *[Capstone Project](https://github.com/priyankachahal1016/BDM-Capstone-project):* Data-driven optimization for effective functioning in agrochemical.
 
 ---
